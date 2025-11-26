@@ -1,6 +1,6 @@
 # Aplicação de Câmera com Geolocalização usando React-Native
 
-## 🏛️ Arquitetura Adotada: MVVM (Model-View-ViewModel)
+## Arquitetura Adotada: MVVM (Model-View-ViewModel)
 
 Para promover a **separação de responsabilidades**, facilitar a manutenção e garantir a escalabilidade do código, o projeto adota o padrão arquitetural **MVVM**.
 
