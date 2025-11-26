@@ -21,7 +21,7 @@ Esta estrutura divide o projeto em três camadas principais, conectadas de forma
 App.tsx                       
 ```
 
-### 🎯 Detalhamento das Camadas
+### Detalhamento das Camadas
 
 A arquitetura **MVVM (Model-View-ViewModel)** garante uma separação robusta de responsabilidades:
 
